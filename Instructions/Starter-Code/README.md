@@ -2,8 +2,8 @@
 
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
 
-![Homework screenshot 1](Images/crypto1.png)
-![Homework screenshot 2](Images/crypto2.png)
+![Homework screenshot 1](Images/crypto1.PNG)
+![Homework screenshot 2](Images/crypto2.PNG)
 ![Homework screenshot 3](Images/crypto3.png)
 
 
